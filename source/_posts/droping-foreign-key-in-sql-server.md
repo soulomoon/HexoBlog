@@ -17,3 +17,4 @@ InOrder to find 'FKConstainName', we can use this function in MSSQLs
 ```mssql
 EXEC sp_fkeys 'TableName'
 ```
+![pic](avatar.jpg)
