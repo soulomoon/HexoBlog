@@ -69,8 +69,8 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/soulomoon/LambdaBlog.git
-  branch: gh-pages
+  repo: https://github.com/soulomoon/soulomoon.github.io.git
+  branch: master
   message: myblog
   name: suolomoon
   email: fwy996602672@gmail.com
