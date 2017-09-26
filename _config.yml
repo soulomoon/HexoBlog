@@ -63,9 +63,14 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: maupassant 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/soulomoon/soulomoon.github.io.git
+  branch: master 
+  message: myblog
+  name: suolomoon
+  email: fwy996602672@gmail.com
