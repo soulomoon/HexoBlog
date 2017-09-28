@@ -2,7 +2,7 @@
 title: C# Class Virtual method 
 date: 2017-05-23 23:41:19
 tags: c# dotnet
-Categories: c#
+categories: c#
 ---
 C# is an OO language, with a lot of easy way to get things done class as Object.
 One of the most important character of class would be class method,  the soul for OO.
