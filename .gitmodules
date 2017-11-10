@@ -1,0 +1,3 @@
+[submodule "maupassant-hexo"]
+	path = maupassant-hexo
+	url = https://github.com/tufu9441/maupassant-hexo.git
