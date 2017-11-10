@@ -6,6 +6,7 @@ script:
   hexo g
 deploy:
   provider: pages
+  local_dir: public
   skip_cleanup: true
   repo: soulomoon/soulomoon.github.io
   target_branch: master
