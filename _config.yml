@@ -4,16 +4,15 @@
 
 # Site
 title: A song of lambda 
-subtitle:
-description:
+subtitle: think before you do
+description: Invalid
 author: soulomoon
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://soulomoon.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -38,9 +37,9 @@ post_asset_folder: true
 relative_link: false
 future: true
 highlight:
-  enable: false
+  enable: true
   line_number: false
-  auto_detect: false
+  auto_detect: false 
   tab_replace:
   
 # Home page setting
