@@ -14,7 +14,7 @@ When you declare a method as virtual,  declaring it it in derived class require 
 Passing in child and father, both call `Speak` of father, while `TryScream`, would call each method. In an instance of Child, There are two `Scream` methods from Child class or Father class. We could either call the `Scream`  from Child class or Father class.
 Because `Virtaul` Modifier mark the method so it can be overriding by the derived class, which means, when you use an `Child` instance, even the `Scream` is called from Father class, it is overriden, it would be defferent if you use new modifier. So Bassically  
 
-```C#
+```Csharp
 import system;
 
 class Father
