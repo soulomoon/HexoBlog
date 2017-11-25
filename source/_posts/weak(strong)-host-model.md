@@ -1,5 +1,5 @@
 ---
-title: DESTINCTINO BETWEEN WEAK HOST MODEL AND STRONG HOST MODEL
+title: Destinction Between Weak Host Model And Strong Host Model
 date: 2017-11-10 11:54:44
 tags:
 ---

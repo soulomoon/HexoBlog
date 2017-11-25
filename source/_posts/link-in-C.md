@@ -1,5 +1,5 @@
 ---
-title: link-in-C
+title: Link-in-C
 date: 2017-11-14 15:13:56
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: pic_in_hexo
+title: Pic in Hexo
 date: 2017-09-27 02:24:38
 tags:
 ---

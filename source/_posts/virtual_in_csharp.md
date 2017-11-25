@@ -1,5 +1,5 @@
 ---
-title: C# Class Virtual method 
+title: C# Class Virtual Method 
 date: 2017-05-23 23:41:19
 tags: c# dotnet
 categories: c#

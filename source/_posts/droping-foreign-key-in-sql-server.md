@@ -1,5 +1,5 @@
 ---
-title: droping foreign key in sql server
+title: Droping Foreign Key in Sql Server
 date: 2017-06-07 00:02:26
 tags:
 ---

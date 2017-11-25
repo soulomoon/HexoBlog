@@ -1,5 +1,5 @@
 ---
-title: Linq use sql like
+title: Linq Use 'Sql Like'
 date: 2017-05-26 23:29:48
 tags:
 ---
